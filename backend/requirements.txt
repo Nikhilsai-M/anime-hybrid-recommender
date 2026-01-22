@@ -1,9 +1,10 @@
 fastapi
 uvicorn
-pandas
-numpy
-tensorflow
+tensorflow==2.15.0
+tf-keras==2.15.0
+sentence-transformers
 faiss-cpu
-thefuzz[speedup]
-requests
+numpy<2.0.0
+pandas
 scikit-learn
+pydantic

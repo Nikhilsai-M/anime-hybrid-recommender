@@ -3,7 +3,7 @@ import axios from 'axios';
 import './App.css';
 
 // Pointing to our FastAPI backend
-const API_URL = "http://localhost:8000";
+const API_URL = "https://aether-oo7-anime-recommender-backend.hf.space";
 
 function App() {
   // State: managing user session and navigation
