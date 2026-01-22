@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+tensorflow
+faiss-cpu
+thefuzz[speedup]
+requests
+scikit-learn
